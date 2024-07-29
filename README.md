@@ -5,7 +5,7 @@ Panduan Puasa Sunnah dan Puasa Wajib
 https://youtu.be/-rHUbR94dYQ
 
 # Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2020/10/Tutorial-Membuat-Aplikasi-Panduan-Puasa-Sunnah-dan-Puasa-Wajib-dengan-Android-Studio.html
+https://rivaldi48.blogspot.com/2024/07/tutorial-membuat-aplikasi-panduan-puasa-dengan-flutter.html
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQF2-0_jJsjnaLYAHNPg7Gr9o0t1w3MpwKNSzR3VykxMvyZdvXdxMiA1UET_G4BdxiKFQ6pj_kSdPzG1TN6l-NYsxewSPaPtH907VcBBNt8EdGE9ukjMjQWnL4dOgejYM65j2rlJ0Ca5emWZdD2eJoUcP7STa8QLSCjTECtcrYxClTNU18t02S3d7OxWiH/s1280/Tutorial%20Membuat%20Aplikasi%20Panduan%20Puasa%20dengan%20Flutter.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/07/tutorial-membuat-aplikasi-panduan-puasa-dengan-flutter.html" style="max-width:100%;">
 
